@@ -1,0 +1,9 @@
+{
+  "data": {
+    "dataset_dir": "data/otto"
+  },
+  "device": "cuda",
+  "seed": 0,
+  "checkpoint": "weights/classifier.pt",
+  "batch_size": 256
+}

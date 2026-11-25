@@ -1,0 +1,13 @@
+{
+  "data": {
+    "dataset_dir": "data/california"
+  },
+  "device": "cuda",
+  "seed": 0,
+  "n_models": 64,
+  "embedding": "cosine",
+  "epochs": 80,
+  "patience": 12,
+  "batch_size": 256,
+  "ensemble_limit": 16
+}
